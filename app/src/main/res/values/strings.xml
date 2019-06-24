@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">People List</string>
+    <string name="btn_text_abc">ABC</string>
+    <string name="btn_text_123">123</string>
+    <string name="btn_text_Add">Add</string>
+    <string name="apf_name">Name</string>
+    <string name="apf_age">Age</string>
+    <string name="apf_picID">Picture ID Number - 0 to 6</string>
+</resources>
